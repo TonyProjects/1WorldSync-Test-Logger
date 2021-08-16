@@ -1,0 +1,7 @@
+16.08.2021 2:39:07	Info	Message
+16.08.2021 2:39:21	Info	Message
+Y8D28Sw.16	Info	Message
+2021-08-16 02:46:35Z	Info	Message
+2021-08-16 07:09:30Z	Info	Just a regular message
+2021-08-16 07:09:30Z	Warning	It's kinda hot in here
+2021-08-16 07:09:30Z	Error	Done..

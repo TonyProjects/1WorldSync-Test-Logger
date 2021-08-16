@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneWorldSync.Test.Logger", "OneWorldSync.Test.Logger.csproj", "{348D2076-3D3D-4341-9556-D6DF449986F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneWorldSync.Test.LoggerExample", "..\OneWorldSync.Test.LoggerExample\OneWorldSync.Test.LoggerExample.csproj", "{F43198DD-78EE-41D2-BDA4-71A84765799A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348D2076-3D3D-4341-9556-D6DF449986F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348D2076-3D3D-4341-9556-D6DF449986F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348D2076-3D3D-4341-9556-D6DF449986F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348D2076-3D3D-4341-9556-D6DF449986F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43198DD-78EE-41D2-BDA4-71A84765799A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43198DD-78EE-41D2-BDA4-71A84765799A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43198DD-78EE-41D2-BDA4-71A84765799A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43198DD-78EE-41D2-BDA4-71A84765799A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB5140A4-8820-48F2-9060-C4EA8AF3C095}
+	EndGlobalSection
+EndGlobal

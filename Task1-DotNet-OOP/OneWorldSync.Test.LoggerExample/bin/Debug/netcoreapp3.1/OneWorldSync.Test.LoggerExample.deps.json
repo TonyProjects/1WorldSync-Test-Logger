@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OneWorldSync.Test.LoggerExample/1.0.0": {
+        "dependencies": {
+          "OneWorldSync.Test.Logger": "1.0.0"
+        },
+        "runtime": {
+          "OneWorldSync.Test.LoggerExample.dll": {}
+        }
+      },
+      "OneWorldSync.Test.Logger/1.0.0": {
+        "runtime": {
+          "OneWorldSync.Test.Logger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OneWorldSync.Test.LoggerExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OneWorldSync.Test.Logger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
